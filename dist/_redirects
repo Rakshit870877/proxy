@@ -1,6 +1,0 @@
-/*  /index.html  200
-/api/* https://api.example.com/:splat 200!
-
-/api/* https://proxy-server-n7ib.onrender.com
-
-/* https://proxy-server-n7ib.onrender.com * 200!
